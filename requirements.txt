@@ -1,0 +1,9 @@
+pandas
+pycantonese
+jieba
+requests
+jupyter
+transformers
+torchaudio
+functools
+datasets
