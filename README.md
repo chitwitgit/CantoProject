@@ -23,3 +23,6 @@ I then tried to modify the code to run tests on several audio clips from the <a 
 The Linux VM also raised an illegal instruction error when importing pandas, and at that point I was burnt out and gave up on trying to use the code to run the model on the Common Voice dataset.
 
 Please tell me if you can run the code successfully.
+
+PS: I also tried using sagemaker afterwards to no avail. It couldn't load the common voice dataset due to an error
+ on soundfile.
